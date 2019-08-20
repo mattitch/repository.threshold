@@ -13,6 +13,6 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Threshold FM addon Repo</summary>
 		<description lang="en">created by mattitch</description>
-		<genre>Drum & Bass</genre>
+		<genre>Drum n Bass</genre>
 	</extension>
 </addon>
