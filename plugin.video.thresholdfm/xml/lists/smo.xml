@@ -11,6 +11,13 @@
 <link>https://thresholdfm.podbean.com/mf/play/w44af2/The_Smorgasbord_Sessions_Episode_one_Threshold_fm_March_2019.mp3</link>
 <thumbnail>https://ucarecdn.com/28b26f86-771d-4a19-8201-ff6e2044f440/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
 </item>
+
+<plugin>
+<title>Smorgasbord Sessions Soundcloud</title>
+<link>plugin://plugin.audio.soundcloud/?action=call&amp;call=https%3a%2f%2fapi-v2.soundcloud.com%2fusers%2f593141946%2fspotlight&quot;,return</link>
+<thumbnail>https://i1.sndcdn.com/avatars-000602122836-tzpzzi-large.jpg</thumbnail>
+</plugin>
+
 </xml>
 
 

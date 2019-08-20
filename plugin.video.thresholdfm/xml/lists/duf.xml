@@ -42,6 +42,21 @@
 <thumbnail>https://ucarecdn.com/86f05c60-c5f8-467b-ae79-576b4f768d16/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
 </item>
 
+<plugin>
+<title>Duffs Mixcloud</title>
+<link>plugin://plugin.audio.mixcloud/?key=%2fduff%2f&amp;mode=21&quot;,return</link>
+<thumbnail>https://thumbnailer.mixcloud.com/unsafe/100x100/profile/9/f/1/3/c9ec-dee5-47fb-8826-83de0cb4e7b0.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<title>Duffs Soundcloud</title>
+<link>plugin://plugin.audio.soundcloud/?action=call&amp;call=https%3a%2f%2fapi-v2.soundcloud.com%2fusers%2f480203%2fspotlight&quot;,return</link>
+<thumbnail>https://i1.sndcdn.com/avatars-000438889182-4nwfv4-large.jpg</thumbnail>
+</plugin>
+
+
+
+
 </xml>
 
 

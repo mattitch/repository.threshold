@@ -35,6 +35,14 @@
 <link>https://thresholdfm.podbean.com/mf/play/9tiihq/Mezzanine_Show_001_-_Dipping_Your_Toes_Into_Madness.mp3</link>
 <thumbnail>https://ucarecdn.com/0ed83d88-736d-4412-89b9-46ab259870ef/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
 </item>
+
+<plugin>
+<title>Irregular Joe Mixcloud</title>
+<link>plugin://plugin.audio.mixcloud/?key=%2firregularjoe%2f&amp;mode=21&quot;,return</link>
+<thumbnail>https://thumbnailer.mixcloud.com/unsafe/100x100/profile/8/3/6/c/cf73-948b-447b-9647-18568647c5e1</thumbnail>
+</plugin>
+
+
 </xml>
 
 

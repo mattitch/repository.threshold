@@ -60,6 +60,13 @@
 <thumbnail>https://ucarecdn.com/66936b91-e468-47f5-ac00-54562a5358a6/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
 </item>
 
+<plugin>
+<title>High Rankin Soundcloud</title>
+<link>plugin://plugin.audio.soundcloud/?action=call&amp;call=https%3a%2f%2fapi-v2.soundcloud.com%2fusers%2f19702%2fspotlight&quot;,return</link>
+<thumbnail>https://i1.sndcdn.com/avatars-000610432962-3ta869-large.jpg</thumbnail>
+</plugin>
+
+
 </xml>
 
 

@@ -88,4 +88,9 @@
     <title>Lobster Mixes</title>
     <link>file://lists/lob.xml</link>
   </dir>
+  
+  <dir>
+  <title>Green Gang</title>
+  <link>file://lists/gg.xml</link>
+  </dir>
 </xml>
