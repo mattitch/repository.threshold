@@ -1,0 +1,91 @@
+<xml>
+ 
+<item>
+<title>Threshold FM Live</title>
+<link>https://s2.radio.co/sdf9aeb4e9/listen</link>
+<thumbnail></thumbnail>
+</item>
+
+<plugin>
+<title>Coffee & Memes</title>
+<link>plugin://plugin.video.youtube/playlist/PLjNoI_XSu7k1lIPh4rSEWYmpA5A763SD1/</link>
+<thumbnail>https://i.ytimg.com/vi/6oo_3Z-6yus/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCjpl6OAF06p8cmLwmfZSvU8kEeKg</thumbnail>
+</plugin>
+
+
+<plugin>
+<title>Eastern Front</title>
+<link>plugin://plugin.video.youtube/channel/UC-hhPMAPdhi4qumSQ_eZcDA/playlists/</link>
+<thumbnail>https://i.ytimg.com/vi/uHy6kgy8eDg/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBjsNgDeo7nL983hTF_6t4xgNYDvg</thumbnail>
+</plugin>
+
+  <dir>
+    <title>Cyantific FM</title>
+    <link>file://lists/cya.xml</link>
+	<thumbnail>https://ucarecdn.com/01304bea-faf6-4f73-8c4e-928928a186f5/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
+	</dir>
+	
+	<dir>
+    <title>Combine Radio</title>
+    <link>file://lists/com.xml</link>
+	<thumbnail>https://ucarecdn.com/3cbb2874-74be-4945-ad42-971dfab0cbaf/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
+  </dir>
+  
+  <dir>
+    <title>Mitch Wade Cole's Self Help Show</title>
+    <link>file://lists/mitch.xml</link>
+	<thumbnail>https://ucarecdn.com/994bbb09-1747-454c-a56e-b20c0a5fd9af/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
+  </dir>
+  
+  <dir>
+    <title>The Mezzanine Show with Irregular Joe</title>
+    <link>file://lists/mez.xml</link>
+	<thumbnail>https://ucarecdn.com/0ed83d88-736d-4412-89b9-46ab259870ef/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
+  </dir>
+  
+  <dir>
+    <title>Aems MC</title>
+    <link>file://lists/aem.xml</link>
+	<thumbnail>https://ucarecdn.com/efe7d406-f7e0-4a18-95b2-9e9081f09bcc/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
+  </dir>
+  
+  <dir>
+    <title>Rankins Records</title>
+    <link>file://lists/rr.xml</link>
+	<thumbnail>https://ucarecdn.com/66936b91-e468-47f5-ac00-54562a5358a6/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
+  </dir>
+  <dir>
+    <title>All Aboard with Duff</title>
+    <link>file://lists/duf.xml</link>
+	<thumbnail>https://ucarecdn.com/86f05c60-c5f8-467b-ae79-576b4f768d16/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
+  </dir>
+  
+  <dir>
+    <title>The Smorgasboard Sessions</title>
+    <link>file://lists/smo.xml</link>
+	<thumbnail>https://ucarecdn.com/28b26f86-771d-4a19-8201-ff6e2044f440/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
+  </dir>
+ 
+ <dir>
+    <title>Roll Call with Parallaxed</title>
+    <link>file://lists/par.xml</link>
+	<thumbnail>https://ucarecdn.com/ffc38aa9-b93d-4420-a49f-dc82cf752f26/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
+  </dir>
+  
+  <dir>
+    <title>Incidental Sonics with Constrict</title>
+    <link>file://lists/is.xml</link>
+	<thumbnail>https://ucarecdn.com/34b1523c-801f-4720-97ce-f7eeafdcf3e5/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
+  </dir>
+  
+  <dir>
+    <title>Gold Top Radio with Cruk And Bide</title>
+    <link>file://lists/gold.xml</link>
+	<thumbnail>https://ucarecdn.com/f1104d38-ef28-4c18-b895-a0adb7f2c29c/-/format/auto/-/preview/3000x3000/-/quality/lighter/</thumbnail>
+  </dir>
+  
+  <dir>
+    <title>Lobster Mixes</title>
+    <link>file://lists/lob.xml</link>
+  </dir>
+</xml>
